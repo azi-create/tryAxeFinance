@@ -1,0 +1,12 @@
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\bin\Debug\net7.0\MongoDataAccess.deps.json
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\bin\Debug\net7.0\MongoDataAccess.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\bin\Debug\net7.0\MongoDataAccess.pdb
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.csproj.AssemblyReference.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.AssemblyInfoInputs.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.AssemblyInfo.cs
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\refint\MongoDataAccess.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\MongoDataAccess.pdb
+C:\Users\aziz.jellouli\source\repos\mongodb try\MongoDataAccess\obj\Debug\net7.0\ref\MongoDataAccess.dll

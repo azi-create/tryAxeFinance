@@ -1,0 +1,36 @@
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\mongodb try.exe
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\mongodb try.deps.json
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\mongodb try.runtimeconfig.json
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\mongodb try.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\mongodb try.pdb
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.csproj.AssemblyReference.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.AssemblyInfoInputs.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.AssemblyInfo.cs
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.csproj.CoreCompileInputs.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\refint\mongodb try.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.pdb
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.genruntimeconfig.cache
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\ref\mongodb try.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\DnsClient.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\Snappier.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\obj\Debug\net7.0\mongodb try.csproj.CopyComplete
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDataAccess.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\MongoDataAccess.pdb
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\JsonDiffPatchDotNet.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\Json.Comparer.TextResultReporter.dll
+C:\Users\aziz.jellouli\source\repos\mongodb try\mongodb try\bin\Debug\net7.0\Json.Comparer.dll
